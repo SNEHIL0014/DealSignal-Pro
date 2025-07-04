@@ -1,0 +1,4 @@
+Name,Title,Company,Industry,Location,CompanySize,LeadScore,EstimatedValue,NurtureCandidate,CapraeLens,GDPR_Applicable,Message
+John Smith,Founder & CEO,FinAI,SaaS,USA,20,82.0,4920.0,No,✓,No,"Hi John Smith, as Founder & CEO at FinAI, I’d love to connect about opportunities in SaaS. This message is direct."
+Emma Watson,Marketing Manager,HealthCo,Healthcare,India,300,60.0,54000.0,No,,Yes,"Hi Emma Watson, as Marketing Manager at HealthCo, I’d love to connect about opportunities in Healthcare. This message is nurturing."
+Tom Ford,CTO,AutoNext,Automotive,USA,1500,77.0,346500.0,No,,No,"Hi Tom Ford, as CTO at AutoNext, I’d love to connect about opportunities in Automotive. This message is nurturing."
