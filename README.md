@@ -50,10 +50,9 @@ DealSignal-Pro/
 
 ├── requirements.txt # Python dependencies
 
-└── README.md # 
+├── README.md # 
 
-└── Caprae_Challenge_Report.md
-
+└── DealSignal_Pro.ipynb.ipynb     # Jupyter Notebook walkthrough
 ---
 
 📓 Demo (Jupyter Notebook)
