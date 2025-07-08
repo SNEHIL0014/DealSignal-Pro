@@ -102,6 +102,13 @@ Output will be saved to:
 
 ---
 
+📄 Project Report
+You can view or download the full project report here:
+📘 Caprae Challenge Report – Snehil Srivastava (PDF)
+[https://drive.google.com/file/d/1VRSN8AdFQwP4mUiq2MYJQxYa5kMZCGts/view?usp=sharing]
+
+---
+
 ## 📊 Output Metrics:
 
 
