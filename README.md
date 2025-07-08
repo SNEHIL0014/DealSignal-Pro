@@ -33,14 +33,59 @@ DealSignal Pro is a Python-based AI tool built in 5 hours for Caprae Capital’s
 
 DealSignal-Pro/
 │
+
 ├── data/ # Raw leads.csv input
+
 ├── output/ # Scored leads output
+
 ├── src/
+
 │ ├── scorer.py # Scoring, ROI, CapraeLens logic
+
 │ └── messenger.py # Message generation
+
 ├── main.py # Run the full pipeline
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # 
+
+└── Caprae_Challenge_Report.md
+
+---
+
+📓 Demo (Jupyter Notebook)
+View the full scoring and enrichment logic in:
+👉 demo/DealSignal_Pro.ipynb
+
+The notebook shows:
+
+Data preprocessing
+
+Scoring and tagging logic
+
+Visualization of lead scores
+
+Final output export
+
+▶️ How to Run
+Install dependencies:
+pip install -r requirements.txt
+
+Run the main pipeline:
+python main.py
+
+Output will be saved to:
+/output/scored_with_messages.csv
+
+
+
+| Name        | Title   | Score | Category | GDPR | Industry | Message                   |
+| ----------- | ------- | ----- | -------- | ---- | -------- | ------------------------- |
+| John Smith  | CEO     | 90    | Hot      | No   | SaaS     | "Hi John, congrats..."    |
+| Priya Mehta | Manager | 55    | Warm     | Yes  | EdTech   | "Hi Priya, thanks for..." |
+
+
 
 ---
 
