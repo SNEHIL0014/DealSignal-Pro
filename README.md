@@ -44,6 +44,8 @@ DealSignal-Pro/
 
 │ └── messenger.py # Message generation
 
+├── Caprae_Challenge_Report_SnehilSrivastava.md  # 1-page summary
+
 ├── main.py # Run the full pipeline
 
 ├── requirements.txt # Python dependencies
